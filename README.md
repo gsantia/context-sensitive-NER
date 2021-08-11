@@ -1,6 +1,6 @@
-# context-sensitive-NER
+# Context Sensitive Named-Entity Recognition
 
-A novel named-entity recognition system focusing on detecting
+A novel named-entity recognition (NER) system focusing on detecting
 rare and sparsely occuring name entities, powered by flexible 
 context features of word forms. The model used statistical,
 lending itself well to classic machine learning.
